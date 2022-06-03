@@ -1,0 +1,6 @@
+C:\Users\ValMe\Desktop\VANTLR\VANTLR\obj\Debug\net5.0\GramatikaLexer.cs
+C:\Users\ValMe\Desktop\VANTLR\VANTLR\obj\Debug\net5.0\GramatikaParser.cs
+C:\Users\ValMe\Desktop\VANTLR\VANTLR\obj\Debug\net5.0\GramatikaListener.cs
+C:\Users\ValMe\Desktop\VANTLR\VANTLR\obj\Debug\net5.0\GramatikaBaseListener.cs
+C:\Users\ValMe\Desktop\VANTLR\VANTLR\obj\Debug\net5.0\GramatikaVisitor.cs
+C:\Users\ValMe\Desktop\VANTLR\VANTLR\obj\Debug\net5.0\GramatikaBaseVisitor.cs
